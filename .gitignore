@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+__pycache__/
+
+# Configuración local y archivos ocultos
+.env
+*.env
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Archivos de Reflex generados
+.states/
+.web/
